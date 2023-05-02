@@ -30,6 +30,9 @@ application:
       - 'https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts' #大圣净化
       - 'https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Adblock-Rule/main/AWAvenue-Adblock-Rule.txt' #AWAvenue-Adblock-Rule
       - 'https://raw.githubusercontent.com/sbwml/halflife-list/master/ad-pc.txt' #halflife-list
+      - 'https://adguardteam.github.io/HostlistsRegistry/assets/filter_24.txt'
+      - 'https://adrules.top/dns.txt'
+      - 'https://anti-ad.net/easylist.txt'
     #本地规则
     local: #本地规则请将文件移动到项目路径rule目录中
       - 'private.txt'
