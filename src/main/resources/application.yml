@@ -33,6 +33,7 @@ application:
       - 'https://adguardteam.github.io/HostlistsRegistry/assets/filter_24.txt'
       - 'https://adrules.top/dns.txt'
       - 'https://anti-ad.net/easylist.txt'
+      - 'https://raw.githubusercontent.com/Bibaiji/ad-rules/main/rule/local-rule.txt'
     #本地规则
     local: #本地规则请将文件移动到项目路径rule目录中
       - 'private.txt'
