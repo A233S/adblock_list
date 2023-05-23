@@ -1,6 +1,6 @@
 [xndeye Adblock List]
 ! Title: regex.txt
-! Last Modified: 2023-05-23 16:20:35
+! Last Modified: 2023-05-24 00:21:25
 ! Homepage: https://github.com/xndeye/adblock_list
 ## 👇This Part Merge from: https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt
 ||marketplace-*.hyprmx.com^
@@ -254,7 +254,6 @@ lj_bookmarklet
 ||ej1*.online^
 ||log-*.epicdn.me^
 ||mistat.*.xiaomi.com^
-||stat.*.v-56.com^
 ||ads*-normal*.zijieapi.com^
 ||sf*-be-pack.pglstatp-toutiao.com^
 ||fads*s.com^
@@ -272,7 +271,18 @@ lj_bookmarklet
 ||access.pangolin-sdk-toutiao-*.com^
 ||polaris*-normal-lq.zijieapi.com^
 ||ad.*.xiaomi.com^
+## 👇This Part Merge from: https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Adblock-Rule/main/AWAvenue-Adblock-Rule.txt
+||pagead*.google.com^
+## 👇This Part Merge from: https://raw.githubusercontent.com/sbwml/halflife-list/master/ad-pc.txt
+||bc.geocities.
+||internal-matomo.
+||meetrics.netbb-
+||tracker.twenga.
+||fb_servpub-a.akamaihd.net^
+## 👇This Part Merge from: https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt
+||pijama.*.elasticbeanstalk.com^
 ## 👇This Part Merge from: https://adrules.top/dns.txt
+||stat.*.v-56.com^
 ||zazgiyoh*.world^
 ||zcchyr*.xyz^
 ||stats-*.p2pnow.ru^
@@ -297,17 +307,6 @@ lj_bookmarklet
 ||tracker*.qcloud.com^
 ||zbc6hy*.live^
 ## 👇This Part Merge from: https://raw.githubusercontent.com/sbwml/halflife-list/master/ad-pc.txt
-||internal-matomo.
-||meetrics.netbb-
-## 👇This Part Merge from: https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Adblock-Rule/main/AWAvenue-Adblock-Rule.txt
-||pagead*.google.com^
-## 👇This Part Merge from: https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt
-||pijama.*.elasticbeanstalk.com^
-## 👇This Part Merge from: https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt
-||fapnado.*.php|
-Banner468x60
-## 👇This Part Merge from: https://raw.githubusercontent.com/sbwml/halflife-list/master/ad-pc.txt
-||bc.geocities.
 ||analytics-api.dvdfab.
 ||stats.zone-annuaire.
 ||matt.mercadolibre.
@@ -316,9 +315,10 @@ Banner468x60
 ||acookie.*.gif?
 ||servo-report.dvdfab.
 ||stats.zone-telechargement.
-||tracker.twenga.
-||fb_servpub-a.akamaihd.net^
 ||site.flashx.
+## 👇This Part Merge from: https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt
+||fapnado.*.php|
+Banner468x60
 ## 👇This Part Merge from: https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt
 rgmechanicsgames.com*VPN.exe
 @@||adobeid-*.services.adobe.com^
