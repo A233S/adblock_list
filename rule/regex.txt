@@ -1,6 +1,6 @@
 [xndeye Adblock List]
 ! Title: regex.txt
-! Last Modified: 2023-07-29 00:20:51
+! Last Modified: 2023-07-29 09:18:39
 ! Homepage: https://github.com/xndeye/adblock_list
 ## 👇This Part Merge from: https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt
 ||adx-*.op.dbankcloud.com.edgekey.net^
@@ -180,6 +180,9 @@ lj_bookmarklet
 ||centent.streamp1ay.
 ||cas.*.criteo.com^
 ||cintent.streanplay.
+## 👇This Part Merge from: https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Adblock-Rule/main/AWAvenue-Adblock-Rule.txt
+||pagead*.google.com^
+||ads*-normal-lq.zijieapi.com^
 ## 👇This Part Merge from: https://adrules.top/dns.txt
 ||aj2*.online^
 ||cs*.mp3bars.com^
@@ -261,32 +264,6 @@ lj_bookmarklet
 ||itechpost.com*adbk
 ||rgfftupf.
 ||prebid-*.rubiconproject.com^
-## 👇This Part Merge from: https://raw.githubusercontent.com/sbwml/halflife-list/master/ad-pc.txt
-||bc.geocities.
-||solutions.|pages.indigovision.com^
-||stat.*.v-56.com^
-||matt.mercadolibre.
-||stats-*.p2pnow.ru^
-||stats*.credit-cooperatif.coop^
-||mcdp-*.outbrain.com^
-||stats2.*.fdnames.com^
-||servo-report.dvdfab.
-||stats.zone-telechargement.
-||tracker.twenga.
-||fb_servpub-a.akamaihd.net^
-|71efe2183b8663ad5bf9d7a9320aeb48.leboncoin.fr^
-||analytics-api.dvdfab.
-||stats.zone-annuaire.
-||geotargetly-api-*.com^
-||sta.zone-telechargement.
-||pixel.archive.
-||log-*.previewnetworks.com^
-## 👇This Part Merge from: https://raw.githubusercontent.com/sbwml/halflife-list/master/ad-pc.txt
-||onetrust.
-||acookie.*.gif?
-## 👇This Part Merge from: https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Adblock-Rule/main/AWAvenue-Adblock-Rule.txt
-||pagead*.google.com^
-||ads*-normal-lq.zijieapi.com^
 ## 👇This Part Merge from: https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt
 ||pijama.*.elasticbeanstalk.com^
 ## 👇This Part Merge from: https://adrules.top/dns.txt
@@ -298,6 +275,7 @@ lj_bookmarklet
 ||log*-misc-lq.amemv.com^
 ||mapi-log.qoo*.jp^
 ||log*.vietnamplus.vn^
+||mcdp-*.outbrain.com^
 ||rum*.a.trbcdn.net^
 ||host*.carl-ras.dk^
 ||report.*.qq.com^
@@ -340,11 +318,13 @@ lj_bookmarklet
 ||mautic.*.vn^
 ||gads*s.com^
 ||mon*-platform-*.tiktokv.com^
+||geotargetly-api-*.com^
 ||gscounters.*.gigya.com^
 ||mcs-va-*.tiktokv.com^
 ||geoloc*.9cd47096ab1495d8d3b18667f6a52b9c.com^
 ||mon-*.tiktokv.com^
 ||pixelapi-*.cs.mysamba.tv^
+||log-*.previewnetworks.com^
 ||mads*z.com^
 ||gtlpa*.com^
 ||log-*.epicdn.me^
@@ -377,6 +357,7 @@ Banner468x60
 ||zazgiyoh*.xyz^
 ||zcchyw*.xyz^
 ||sell*.etlong.com^
+||stats*.credit-cooperatif.coop^
 ||tracking*.euroads.fi^
 ||sense-*.tapdb.net^
 ||ulog*.*^
@@ -390,12 +371,15 @@ Banner468x60
 ||st-*.dynamicyield.com^
 ||ubacollect-*.cloud.dbankcloud.cn^
 ||track.*.roku.com^
+||stat.*.v-56.com^
 ||zazgiyoh*.world^
+||stats-*.p2pnow.ru^
 ||zabdybod*.club^
 ||yhsfsdv*.com^
 ||thezbpe5*.xyz^
 ||telemetry*.transcend.io^
 ||zazgbqg*.xyz^
+||stats2.*.fdnames.com^
 ||v*.denakop.com^
 ||zbc6hye*.xyz^
 ||www.xxmh*.com^
@@ -410,6 +394,22 @@ Banner468x60
 ## 👇This Part Merge from: https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt
 rgmechanicsgames.com*VPN.exe
 @@||adobeid-*.services.adobe.com^
+## 👇This Part Merge from: https://raw.githubusercontent.com/sbwml/halflife-list/master/ad-pc.txt
+||bc.geocities.
+|71efe2183b8663ad5bf9d7a9320aeb48.leboncoin.fr^
+||analytics-api.dvdfab.
+||solutions.|pages.indigovision.com^
+||stats.zone-annuaire.
+||matt.mercadolibre.
+||sta.zone-telechargement.
+||pixel.archive.
+||servo-report.dvdfab.
+||stats.zone-telechargement.
+||tracker.twenga.
+||fb_servpub-a.akamaihd.net^
+## 👇This Part Merge from: https://raw.githubusercontent.com/sbwml/halflife-list/master/ad-pc.txt
+||onetrust.
+||acookie.*.gif?
 ## 👇This Part Merge from: https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt
 ||ads*.opensubtitles.org^
 @@||cdn*.porn300.com^
