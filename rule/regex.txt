@@ -1,6 +1,6 @@
 [xndeye Adblock List]
 ! Title: regex.txt
-! Last Modified: 2023-08-29 16:20:23
+! Last Modified: 2023-08-30 00:20:56
 ! Homepage: https://github.com/xndeye/adblock_list
 ## 👇This Part Merge from: https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_224_Chinese/filter.txt
 ||8*.tianya.cn^
@@ -78,9 +78,6 @@ lj_bookmarklet
 ## 👇This Part Merge from: https://raw.githubusercontent.com/Bibaiji/ad-rules/main/rule/local-rule.txt
 ||tnc*.zijieapi.com^$important
 ||pglstatp-toutiao.com^  ​‌​‍‍‍‍‌‍‌​​​‌‍
-## 👇This Part Merge from: https://adguard.com/kb/zh-CN/general/ad-filtering/adguard-filters/
-<head>
-<!doctype html>
 ## 👇This Part Merge from: https://anti-ad.net/easylist.txt
 ||da.hornbach.*^
 ||appsflyer*.*^
@@ -173,6 +170,9 @@ lj_bookmarklet
 ||qchannel*.cn^
 ||gg*.51cto.com^
 ||analyzer*.fc2.com^
+## 👇This Part Merge from: https://adguard.com/kb/zh-CN/general/ad-filtering/adguard-filters/
+<head>
+<!doctype html>
 ## 👇This Part Merge from: https://raw.githubusercontent.com/sbwml/halflife-list/master/ad-pc.txt
 ||get-me-wow.
 ## 👇This Part Merge from: https://raw.githubusercontent.com/sbwml/halflife-list/master/ad-pc.txt
@@ -205,6 +205,15 @@ lj_bookmarklet
 ||acookie.*.gif?
 ||pixel.archive.
 ||log-*.previewnetworks.com^
+## 👇This Part Merge from: https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Adblock-Rule/main/AWAvenue-Adblock-Rule.txt
+||mobileanalytics.*.amazonaws.com^
+||api-access.pangolin-sdk-toutiao*.com^
+||pagead*.google.com^
+||ads*-normal-lq.zijieapi.com^
+||v*-ad.video.yximgs.com^
+||adsfilebssdlbig.*.kugou.com^
+||ad.*.xiaomi.com^
+||w*.*skwai.com^
 ## 👇This Part Merge from: https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt
 ||gamenguide.com*adbk
 ||counter*.stat.ovh^
@@ -215,15 +224,6 @@ lj_bookmarklet
 ||prebid-*.rubiconproject.com^
 ## 👇This Part Merge from: https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt
 ||pijama.*.elasticbeanstalk.com^
-## 👇This Part Merge from: https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Adblock-Rule/main/AWAvenue-Adblock-Rule.txt
-||mobileanalytics.*.amazonaws.com^
-||api-access.pangolin-sdk-toutiao*.com^
-||pagead*.google.com^
-||ads*-normal-lq.zijieapi.com^
-||v*-ad.video.yximgs.com^
-||adsfilebssdlbig.*.kugou.com^
-||ad.*.xiaomi.com^
-||w*.*skwai.com^
 ## 👇This Part Merge from: https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt
 ||fapnado.*.php|
 Banner468x60
