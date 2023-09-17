@@ -1,6 +1,6 @@
 [xndeye Adblock List]
 ! Title: regex.txt
-! Last Modified: 2023-09-17 16:18:14
+! Last Modified: 2023-09-18 00:19:02
 ! Homepage: https://github.com/xndeye/adblock_list
 ## 👇This Part Merge from: https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt
 ||adx-*.op.dbankcloud.com.edgekey.net^
@@ -76,6 +76,9 @@ lj_bookmarklet
 ||sam*.baby-kingdom.com^
 ||qpb*.sohu.com^
 ||union*.365inews.com^
+## 👇This Part Merge from: https://raw.githubusercontent.com/Bibaiji/ad-rules/main/rule/local-rule.txt
+||tnc*.zijieapi.com^$important
+||pglstatp-toutiao.com^  ​‌​‍‍‍‍‌‍‌​​​‌‍
 ## 👇This Part Merge from: https://anti-ad.net/easylist.txt
 ||da.hornbach.*^
 ||appsflyer*.*^
@@ -170,9 +173,6 @@ lj_bookmarklet
 ## 👇This Part Merge from: https://adguard.com/kb/zh-CN/general/ad-filtering/adguard-filters/
 <head>
 <!doctype html>
-## 👇This Part Merge from: https://raw.githubusercontent.com/Bibaiji/ad-rules/main/rule/local-rule.txt
-||tnc*.zijieapi.com^$important
-||pglstatp-toutiao.com^  ​‌​‍‍‍‍‌‍‌​​​‌‍
 ## 👇This Part Merge from: https://raw.githubusercontent.com/sbwml/halflife-list/master/ad-pc.txt
 ||get-me-wow.
 ## 👇This Part Merge from: https://raw.githubusercontent.com/sbwml/halflife-list/master/ad-pc.txt
@@ -180,6 +180,18 @@ lj_bookmarklet
 ||centent.streamp1ay.
 ||cas.*.criteo.com^
 ||cintent.streanplay.
+## 👇This Part Merge from: https://raw.githubusercontent.com/sbwml/halflife-list/master/ad-pc.txt
+||bc.geocities.
+||analytics-api.dvdfab.
+||aff*.kolektiva.net^
+||collector-*.px-client.net^
+||geotargetly-api-*.com^
+||stats-*.p2pnow.ru^
+||log-*.previewnetworks.com^
+||mcdp-*.outbrain.com^
+||stats2.*.fdnames.com^
+||tracker.twenga.
+||fb_servpub-a.akamaihd.net^
 ## 👇This Part Merge from: https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt
 ||gamenguide.com*adbk
 ||counter*.stat.ovh^
@@ -190,20 +202,20 @@ lj_bookmarklet
 ||rgfftupf.
 ||prebid-*.rubiconproject.com^
 ## 👇This Part Merge from: https://raw.githubusercontent.com/sbwml/halflife-list/master/ad-pc.txt
-||bc.geocities.
-||collector-*.px-client.net^
-||stats-*.p2pnow.ru^
-||mcdp-*.outbrain.com^
-||stats2.*.fdnames.com^
-||servo-report.dvdfab.
-||tracker.twenga.
-||fb_servpub-a.akamaihd.net^
 |71efe2183b8663ad5bf9d7a9320aeb48.leboncoin.fr^
-||analytics-api.dvdfab.
-||aff*.kolektiva.net^
-||geotargetly-api-*.com^
+||solutions.|pages.indigovision.com^
+||stats.zone-annuaire.
+||stat.*.v-56.com^
+||matt.mercadolibre.
+||onetrust.
+||sta.zone-telechargement.
+||stats*.credit-cooperatif.coop^
+||acookie.*.gif?
 ||pixel.archive.
-||log-*.previewnetworks.com^
+||servo-report.dvdfab.
+||stats.zone-telechargement.
+## 👇This Part Merge from: https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt
+||pijama.*.elasticbeanstalk.com^
 ## 👇This Part Merge from: https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Adblock-Rule/main/AWAvenue-Adblock-Rule.txt
 ||mobileanalytics.*.amazonaws.com^
 ||api-access.pangolin-sdk-toutiao*.com^
@@ -214,21 +226,11 @@ lj_bookmarklet
 ||adsfilebssdlbig.*.kugou.com^
 ||ad.*.xiaomi.com^
 ||w*.*skwai.com^
-## 👇This Part Merge from: https://raw.githubusercontent.com/sbwml/halflife-list/master/ad-pc.txt
-||solutions.|pages.indigovision.com^
-||stats.zone-annuaire.
-||stat.*.v-56.com^
-||matt.mercadolibre.
-||onetrust.
-||sta.zone-telechargement.
-||stats*.credit-cooperatif.coop^
-||acookie.*.gif?
-||stats.zone-telechargement.
-## 👇This Part Merge from: https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt
-||pijama.*.elasticbeanstalk.com^
 ## 👇This Part Merge from: https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt
 ||fapnado.*.php|
 Banner468x60
+## 👇This Part Merge from: https://adrules.top/dns.txt
+||pangolin-sdk-toutiao*.com^ 
 ## 👇This Part Merge from: https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt
 rgmechanicsgames.com*VPN.exe
 ||ads*.dfiles.eu^
@@ -236,10 +238,8 @@ rgmechanicsgames.com*VPN.exe
 ||ads*.depositfiles.com^
 ||ads*.depositfiles.org^
 ||ads*.dfiles.ru^
-||s*.skencituer.com^
-||hostingcloud.*.wasm^
-## 👇This Part Merge from: https://adrules.top/dns.txt
-||pangolin-sdk-toutiao*.com^ 
 ## 👇This Part Merge from: https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt
 ||ads*.opensubtitles.org^
+||s*.skencituer.com^
+||hostingcloud.*.wasm^
 @@||cdn*.porn300.com^
